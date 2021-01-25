@@ -1,0 +1,124 @@
+{
+    "About": {
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ],
+        "paragraph": "Know44 is dedicated to providing the infrastructure for consumers, and retailers alike to put their money where their mouth is when it comes to combatting climate change. When retailers integrate our API into their retail management system, they will have the choice to automatically offset the carbon produced from the entire supply chain of their stock, or allow their customers the choice of supplementing their purchases by offsetting these emmisions themselves."
+    },
+    "Contact": {
+        "email": "david@know44.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-comments-o",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.",
+            "title": "Lorem ipsum"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.",
+            "title": "Lorem ipsum"
+        },
+        {
+            "icon": "fa fa-group",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.",
+            "title": "Lorem ipsum"
+        },
+        {
+            "icon": "fa fa-magic",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.",
+            "title": "Lorem ipsum"
+        }
+    ],
+    "Header": {
+        "paragraph": "Making climate climate action accessible, affordable, and profitable.",
+        "title": "Know44"
+    },
+    "Services": [
+        {
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/Dave.jpeg",
+            "job": "CEO",
+            "name": "David Murray"
+        },
+        {
+            "img": "img/team/Chris.jpeg",
+            "job": "CTO",
+            "name": "Christopher Murray"
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "name": "John Doe",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "name": "Johnathan Doe",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "name": "John Doe",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "name": "Johnathan Doe",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "name": "John Doe",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "name": "Johnathan Doe",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\""
+        }
+    ]
+}
