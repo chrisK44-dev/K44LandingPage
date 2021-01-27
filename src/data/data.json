@@ -12,7 +12,7 @@
             "Exercitation ullamco",
             "Lorem ipsum dolor"
         ],
-        "paragraph": "Know44 is dedicated to providing the infrastructure for consumers, and retailers alike to put their money where their mouth is when it comes to combatting climate change. When retailers integrate our API into their retail management system, they will have the choice to automatically offset the carbon produced from the entire supply chain of their stock, or allow their customers the choice of supplementing their purchases by offsetting these emmisions themselves."
+        "paragraph": "Everything we buy has a carbon footprint. At Know44, we understand that footprint and allow consumers to purchase independently-verified carbon offsets for everything they buy so they can easily live a carbon-negative lifestyle.\nOur system integrates seamlessly with retail Entreprise Resource Planning Systems, at no cost to our retail partners. Together, we can make climate action accessible and affordable for consumers, and profitable for businesses."
     },
     "Contact": {
         "email": "david@know44.com",
@@ -84,7 +84,7 @@
             "name": "David Murray"
         },
         {
-            "img": "img/team/Chris.jpeg",
+            "img": "img/team/Chris_bw.jpeg",
             "job": "CTO",
             "name": "Christopher Murray"
         }
