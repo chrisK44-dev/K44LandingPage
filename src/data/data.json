@@ -80,15 +80,17 @@
     "Team": [
         {
             "img": "img/team/Dave.jpeg",
-            "job": "CEO",
             "name": "David Murray"
         },
         {
+            "img": "img/team/clemens.jpeg",
+            "name": "Clemens Kunst"
+        },
+        {
             "img": "img/team/Chris_bw.jpeg",
-            "job": "CTO",
             "name": "Christopher Murray"
         }
-    ],
+            ],
     "Testimonials": [
         {
             "img": "img/testimonials/01.jpg",
